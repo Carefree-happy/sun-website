@@ -17,6 +17,8 @@ sidebar_position: 1
 [codepen](https://codepen.io/trending)  
 [css-tricks](https://css-tricks.com/archives/)
 [Javascript Design Patterns](https://www.patterns.dev/posts/classic-design-patterns/)
+[HTML Living Standard](https://html.spec.whatwg.org/)
 
 ——————————————————————————————————————————————————————————
 
+[webpack](http://webpack.wuhaolin.cn/)
